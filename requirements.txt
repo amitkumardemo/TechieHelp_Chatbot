@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+pyttsx3
+werkzeug
+Pillow
+fitz
+pytesseract
+fpdf
+pandas
+python-dotenv
