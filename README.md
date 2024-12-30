@@ -90,4 +90,11 @@ Contributions are welcome! To contribute:
 2. **Create a feature branch**:  
    ```bash
    git checkout -b feature-name
+   ```
+
+📧 Contact
+For support or inquiries:
+
+✉️ Email: amitk25783@gmail.com
+🌐 GitHub Issues: Create an Issue
 
