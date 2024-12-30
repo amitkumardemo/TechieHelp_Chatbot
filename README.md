@@ -73,7 +73,7 @@ techiehelp-chatbot/
 ## 📸 Screenshots  
 
 ### Login Page  
-![Login Page](screenshots/login.png)  
+![Login Page](https://github.com/amitkumardemo/TechieHelp_Chatbot/blob/main/Login_page.png)  
 
 ### Chatbot Interface  
 ![Chatbot Interface](screenshots/chatbot.png)  
