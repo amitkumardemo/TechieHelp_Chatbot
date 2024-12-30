@@ -73,10 +73,21 @@ techiehelp-chatbot/
 ## 📸 Screenshots  
 
 ### Login Page  
-![Login Page](https://github.com/amitkumardemo/TechieHelp_Chatbot/blob/main/Login_page.png)  
+<img src="https://github.com/amitkumardemo/TechieHelp_Chatbot/blob/main/Login_page.png" alt="Login Page" width="600" height="400">  
 
-### Chatbot Interface  
-![Chatbot Interface](screenshots/chatbot.png)  
+### Signup Page  
+<img src="https://github.com/amitkumardemo/TechieHelp_Chatbot/blob/main/Signup_Page.png" alt="Signup Page" width="600" height="400">  
+
+### Chatbot Page  
+<img src="https://github.com/amitkumardemo/TechieHelp_Chatbot/blob/main/Chatbot_page.png" alt="Chatbot Page" width="600" height="400">  
+
+### Change Password Page  
+<img src="https://github.com/amitkumardemo/TechieHelp_Chatbot/blob/main/Change_Password_Page.png" alt="Change Password Page" width="600" height="400">  
+
+### History Page  
+<img src="https://github.com/amitkumardemo/TechieHelp_Chatbot/blob/main/History_Page.png" alt="History Page" width="600" height="400">  
+
+
 
 ---
 
