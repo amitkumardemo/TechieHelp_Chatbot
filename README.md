@@ -45,7 +45,7 @@ techiehelp-chatbot/
 ├── .env                   # Environment variables (not included in the repo)
 ├── README.md              # Project documentation
 ├── logo.png               # Project logo
-├── screenshots/           # Folder for UI screenshots
+├── mogodb.py           # Folder for UI screenshots
 ├── templates/             # HTML templates (if any)
 └── venv/                  # Virtual environment folder (not included in the repo)
 
