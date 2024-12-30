@@ -29,3 +29,22 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/yourusername/techiehelp-chatbot.git
    cd techiehelp-chatbot
+## FILE SETUP 
+techiehelp-chatbot/
+│
+├── gen.py                 # Main application script
+├── requirements.txt       # Python dependencies
+├── .env                   # Environment variables (not included in the repo)
+├── README.md              # Project documentation
+├── logo.png               # Project logo
+├── screenshots/           # Folder for UI screenshots
+├── templates/             # HTML templates (if any)
+└── venv/                  # Virtual environment folder (not included in the repo)
+
+
+### Instructions for Setup Files:
+1. Ensure the `.env` file contains accurate information for `api_key` and `mongo_uri`.
+2. Add screenshots to the `screenshots` folder to match the placeholders in the README.
+3. Include a `logo.png` file in the root directory for branding.
+
+Feel free to replace placeholders like `Amit Kumar` or `amitk25783@gmail.com` with actual values!
