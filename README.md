@@ -1,7 +1,7 @@
 # 🤖 TechieHelp-AI Chatbot Assistant
 ![TechieHelp Logo](logo.png)
 
-TechieHelp-AI Chatbot Assistant is an intelligent and user-friendly assistant designed to provide seamless support to users. It leverages advanced AI capabilities to answer queries related to TechieHelp and beyond. With secure login/signup features and a host of useful tools, it's the perfect assistant for your needs! 🌟.................
+TechieHelp-AI Chatbot Assistant is an intelligent and user-friendly assistant designed to provide seamless support to users. It leverages advanced AI capabilities to answer queries related to TechieHelp and beyond. With secure login/signup features and a host of useful tools, it's the perfect assistant for your needs! 🌟................
 
 ---
 
